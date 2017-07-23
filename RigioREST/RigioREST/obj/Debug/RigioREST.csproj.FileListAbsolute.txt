@@ -1,0 +1,15 @@
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\bin\Debug\RigioREST.dll
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\bin\Debug\RigioREST.pdb
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\obj\Debug\RigioREST.csprojResolveAssemblyReference.cache
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\obj\Debug\RigioREST.MainPage.xaml.g.cs
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\obj\Debug\RigioREST.App.xaml.g.cs
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\obj\Debug\RigioREST.dll
+c:\users\jimmy ramos\documents\RigioTest\RigioREST\RigioREST\obj\Debug\RigioREST.pdb
