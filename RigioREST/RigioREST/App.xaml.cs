@@ -13,7 +13,7 @@ namespace RigioREST
         {
             InitializeComponent();
 
-            MainPage = new RigioREST.MainPage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()
