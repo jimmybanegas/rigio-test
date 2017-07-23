@@ -24,26 +24,17 @@ namespace RigioREST.Views
         {
             if (NetworkCheck.IsInternet())
             {
-
-                var client = new HttpClient();
-                var response = await client.GetAsync("https://rigio.azurewebsites.net/api/Accounts");
-                string contactsJson = response.Content.ReadAsStringAsync().Result;
-                List<Account> ObjContactList = new List<Account>();
-                if (contactsJson != "")
-                {
-                    //Converting JSON Array Objects into generic list
-                    ObjContactList = JsonConvert.DeserializeObject<List<Account>>(contactsJson);
-                }
-                //Binding listview with server response  
-                listviewAccounts.ItemsSource = ObjContactList;
+                listviewAccounts.ItemsSource = await App.AccountManager.GetAccountsAsync();
             }
             else
             {
-                await DisplayAlert("JSONParsing", "No network is available.", "Ok");
+                await DisplayAlert("Rigio", "No network is available.", "Ok");
             }
             //Hide loader after server response  
-            ProgressLoader.IsVisible = false;
+                ProgressLoader.IsVisible = false;
         }
+
+       
 
         private void listviewAccounts_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
