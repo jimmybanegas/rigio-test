@@ -11,7 +11,7 @@
 namespace RigioREST {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\jimmy ramos\\documents\\RigioTest\\RigioREST\\RigioREST\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Jimmy Ramos\\Documents\\RigioTest\\RigioREST\\RigioREST\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
