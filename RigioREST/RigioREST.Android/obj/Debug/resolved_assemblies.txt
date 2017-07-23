@@ -1,5 +1,7 @@
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\RigioREST.Android.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\FormsViewGroup.dll
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\Plugin.Connectivity.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
@@ -22,9 +24,10 @@ C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\a
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\RigioREST.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Runtime.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Threading.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Collections.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.ObjectModel.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Globalization.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.ComponentModel.dll
@@ -33,7 +36,6 @@ C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\a
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.IO.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll
-C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Threading.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Linq.dll
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll

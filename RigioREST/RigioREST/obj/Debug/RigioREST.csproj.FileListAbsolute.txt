@@ -24,3 +24,9 @@ C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\System.Ne
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\obj\Debug\RigioREST.csproj.App.config
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\obj\Debug\RigioREST.Views.AccountsListPage.xaml.g.cs
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\Plugin.Connectivity.dll
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\Plugin.Connectivity.xml
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\Plugin.Connectivity.Abstractions.xml

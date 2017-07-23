@@ -52,3 +52,11 @@ C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\a
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\bin\Debug\Plugin.Connectivity.dll
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\bin\Debug\Plugin.Connectivity.xml
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST.Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb

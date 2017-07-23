@@ -100,6 +100,8 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "RigioREST.Android.dll" comes first in this list. */
 		"RigioREST.Android.dll",
 		"FormsViewGroup.dll",
+		"Plugin.Connectivity.Abstractions.dll",
+		"Plugin.Connectivity.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
