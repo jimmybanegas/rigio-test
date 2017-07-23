@@ -47,6 +47,9 @@
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\EntityBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\AccountDetailsPage.xaml.cs">
+      <DependentUpon>AccountDetailsPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\AccountsListPage.xaml.cs">
       <DependentUpon>AccountsListPage.xaml</DependentUpon>
     </Compile>
@@ -94,7 +97,12 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Views\AccountDetailsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Views\AccountsListPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>

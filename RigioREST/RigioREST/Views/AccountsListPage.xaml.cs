@@ -47,7 +47,8 @@ namespace RigioREST.Views
 
         private void listviewAccounts_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            throw new NotImplementedException();
+            var itemSelectedData = e.SelectedItem as Account;
+            Navigation.PushAsync(new AccountDetailsPage(itemSelectedData));
         }
     }
 }

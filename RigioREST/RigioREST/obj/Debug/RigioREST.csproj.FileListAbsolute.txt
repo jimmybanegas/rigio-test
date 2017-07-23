@@ -30,3 +30,4 @@ C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\Plugin.Co
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\Plugin.Connectivity.xml
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\Plugin.Connectivity.Abstractions.pdb
 C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\Jimmy Ramos\Documents\RigioTest\RigioREST\RigioREST\obj\Debug\RigioREST.Views.AccountDetailsPage.xaml.g.cs
